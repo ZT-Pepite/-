@@ -1,0 +1,6 @@
+[book]
+authors = ["ZT"]
+language = "en"
+multilingual = false
+src = "src"
+title = "IoT-Contest-test"
