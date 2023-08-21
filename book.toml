@@ -4,3 +4,6 @@ language = "en"
 multilingual = false
 src = "src"
 title = "IoT-Contest-test"
+[output.html]
+git-repository-url = "https://github.com/ZT-Pepite/IoT-Contest-Test"
+mathjax-support = true
