@@ -1,6 +1,6 @@
 # 全国大学生物联网设计竞赛(test)
 
-**开发资源：https://zt-pepite.github.io/IoT-Contest-Test/；**
+开发资源：https://zt-pepite.github.io/IoT-Contest-Test/
 
 乐鑫科技重视 STEM 教育，我们赞助了全国大学生物联网设计竞赛。该竞赛由教育部高等学校计算机类专业教学指导委员会和物联网工程专业建设研究专家组共同发起，是国内物联网领域极具规模和影响力的学科竞赛。
 ## 乐鑫赛题：探究基于 ESP32-S3 的农业革新应用
